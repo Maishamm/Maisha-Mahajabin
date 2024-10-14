@@ -26,7 +26,10 @@
 ```yaml
 name: Maisha Mahajabin
 located_in: Dhaka,Bangladesh
-current_job: Looking for jobs :)
+current_job:
+[
+Software Quality Engineer @ BRAC IT Services Limited - August 2024 to Present
+]
 education:
   [
     "Bachelor's in Computer Science & Engineering",
